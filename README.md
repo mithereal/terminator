@@ -1,6 +1,6 @@
 # 🛡 Terminator 🛡 
 
-I had to create a new repo and could not fork because of githubs stupid fucking policy of not allowing me to force commit
+I had to create a new repo and could not fork because of githubs stupid fucking policy of not allowing me to force commit to my own fork of a repo
 
 [![Coverage Status](https://img.shields.io/coveralls/github/MilosMosovsky/terminator.svg?style=flat-square)](https://coveralls.io/github/MilosMosovsky/terminator)
 [![Build Status](https://img.shields.io/travis/MilosMosovsky/terminator.svg?style=flat-square)](https://travis-ci.org/MilosMosovsky/terminator)
